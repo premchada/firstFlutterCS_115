@@ -24,7 +24,7 @@ class MyApp extends StatelessWidget {
         // is not restarted.
         primarySwatch: Colors.blue,
       ),
-      home: const MyHomePage(title: 'premvd Home Page'),
+      home: const MyHomePage(title: 'premvad Home Page'),
     );
   }
 }
